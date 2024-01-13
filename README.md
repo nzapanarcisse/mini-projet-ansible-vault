@@ -1,4 +1,4 @@
-Mini Projet Ansible Vault
+#Mini Projet Ansible Vault
 Ce mini projet a pour objectif de mettre en pratique les bonnes pratiques d'Ansible dans un projet. Nous allons déployer un site web statique sur deux serveurs : développement et production. Les mots de passe pour chaque environnement sont stockés de manière sécurisée grâce à Ansible Vault.
 
 Dans ce projet, vous trouverez les éléments suivants :
