@@ -1,0 +1,7 @@
+---
+- hosts: "dev"
+  become: true
+  vars_files:
+    - files/secrets/credentials.yml
+  roles:
+    - { role: apache-static-site}

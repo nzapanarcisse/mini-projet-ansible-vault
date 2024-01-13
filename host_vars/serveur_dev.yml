@@ -1,0 +1,4 @@
+---
+ansible_user: "{{ dev_ansible_user }}"
+ansible_password: "{{ dev_ansible_password }}"
+ansible_host: "{{ dev_ansible_host }}"
